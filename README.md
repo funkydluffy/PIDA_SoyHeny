@@ -59,4 +59,5 @@ Este proyecto se centra en el análisis exhaustivo de datos relacionados con la 
 
 El proyecto busca proporcionar una visión integral del mercado de acceso a Internet en Argentina, identificando áreas clave donde Starlink podría enfocar sus esfuerzos para maximizar su impacto y crecimiento en el mercado. Los KPIs definidos ayudarán a monitorear el progreso y asegurar que las estrategias implementadas estén alineadas con los objetivos de crecimiento de la empresa. El dashboard creado en Power BI sirve como una herramienta valiosa para la visualización continua de los datos y el seguimiento de los KPIs.
 
+Este proyecto fué llevado a cabo por Gabriel Coria (coria.gabriel@hotmail.com - https://github.com/funkydluffy) para ser entregado a SoyHenry (https://github.com/soyHenry) como Proyecto Individual de Análisis de Datos.
 ---
