@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto se centra en el análisis exhaustivo de datos relacionados con la penetración y el acceso a servicios de Internet en Argentina, con el objetivo de evaluar la viabilidad del ingreso de Starlink en el mercado argentino. Se realizó un Análisis Exploratorio de Datos (EDA) robusto y se creó un dashboard en Power BI para visualizar los resultados y tomar decisiones basadas en datos. El proyecto culminó con la creación de un storytelling que presenta los hallazgos y recomendaciones estratégicas para la entrada de Starlink en el mercado.
+Este proyecto se centra en el análisis exhaustivo de datos relacionados con la penetración y el acceso a servicios de Internet en Argentina, con el objetivo de evaluar la viabilidad del ingreso de Starlink en el mercado argentino. Se realizó un Análisis Exploratorio de Datos (EDA) robusto y se creó un dashboard en Power BI para visualizar los resultados y tomar decisiones basadas en datos obtenidos del ENACOM. El proyecto culminó con la creación de un storytelling que presenta los hallazgos y recomendaciones estratégicas para la entrada de Starlink en el mercado.
 
 ## Objetivos del Proyecto
 
@@ -16,7 +16,7 @@ Este proyecto se centra en el análisis exhaustivo de datos relacionados con la 
 
 ### 1. Análisis Exploratorio de Datos (EDA)
 
-- **Búsqueda de valores nulos, faltantes y duplicados:** Se identificaron y manejaron adecuadamente para garantizar la integridad de los datos.
+- **Búsqueda de valores nulos, faltantes y duplicados:** Se identificaron y manejaron detenidamente en búsqueda de garantizar la integridad de los datos.
 - **Detección de outliers:** Se analizaron los valores atípicos para determinar si debían ser eliminados, ajustados o mantenidos, dependiendo de su impacto y relevancia en los datos.
 - **Conclusiones sobre los valores atípicos:** Se decidió conservar algunos outliers al considerar que podían representar comportamientos significativos del mercado.
   
@@ -31,7 +31,7 @@ Este proyecto se centra en el análisis exhaustivo de datos relacionados con la 
 
 ### 4. Creación del Dashboard en Power BI
 
-- **Organización del dashboard en tres páginas:** Cada página se centró en un aspecto específico de los datos, utilizando gráficos y visualizaciones apropiadas para representar la información de manera clara y efectiva.
+- **Organización del dashboard en tres páginas:** Cada página se centró en un aspecto específico de los datos como Accesos a internet por Tecnología y Velocidad, utilizando gráficos y visualizaciones apropiadas para representar la información de manera clara y efectiva.
 - **Elaboración de KPIs:** Se definieron y midieron tanto el KPI propuesto (aumento del 2% en el acceso a Internet por cada 100 hogares para el próximo trimestre) como KPIs adicionales relevantes para el análisis.
 
 ### 5. Storytelling
@@ -42,14 +42,14 @@ Este proyecto se centra en el análisis exhaustivo de datos relacionados con la 
 
 - **Librerías de Python:**
   - `pandas`: Para la manipulación y análisis de datos.
-  - `numpy`: Para operaciones numéricas avanzadas.
+  - `numpy`: Para operaciones numéricas.
   - `matplotlib.pyplot`: Para la creación de gráficos estáticos.
   - `seaborn`: Para la visualización de datos y gráficos estadísticos.
   - `math`: Para operaciones matemáticas adicionales.
 
 - **Herramientas de Visualización y Diseño:**
   - `Power BI`: Para la creación de dashboards interactivos y visualizaciones de datos.
-  - `Photoshop`: Para la edición y diseño gráfico de elementos visuales.
+  - `Photoshop`: Para la edición y diseño gráfico de elementos visuales adicionales.
 
 - **Asistentes de Programación:**
   - `ChatGPT`: Para asistencia en la programación y la resolución de problemas.
